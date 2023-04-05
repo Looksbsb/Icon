@@ -1,0 +1,14 @@
+{
+"name":"小兔图标", 
+"description":"可爱兔兔", 
+"icons":
+[
+{"name":"1", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Rabbit/Rabbit_1.png"},
+{"name":"2", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Rabbit/Rabbit_2.png"},
+{"name":"3", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Rabbit/Rabbit_3.png"},
+{"name":"4", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Rabbit/Rabbit_4.png"},
+{"name":"5", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Rabbit/Rabbit_5.png"},
+{"name":"6", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Rabbit/Rabbit_6.png"},
+{"name":"7", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Rabbit/Rabbit_7.png"},
+]
+}
