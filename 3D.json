@@ -1,0 +1,19 @@
+{
+"name":"渐变图标", 
+"description":"3D渐变图标", 
+"icons":
+[
+{"name":"Telegram", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Telegram.png"},
+{"name":"Instagram", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Instagram.png"},
+{"name":"Twitter", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Twitter.png"},
+{"name":"Facebook", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Facebook.png"},
+{"name":"YouTube", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/YouTube.png"},
+{"name":"Video", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Video.png"},
+{"name":"Messenger", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Messenger.png"},
+{"name":"WeChat", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/WeChat.png"},
+{"name":"TikTok", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/TikTok.png"},
+{"name":"WhatsApp", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/WhatsApp.png"},
+{"name":"Snapchat", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Snapchat.png"},
+{"name":"Reddit", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/3D/Reddit.png"},
+]
+}
