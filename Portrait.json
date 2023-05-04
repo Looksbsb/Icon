@@ -1,0 +1,14 @@
+{
+"name":"Portrait", 
+"description":"自用图标", 
+"icons":
+[
+{"name":"Afreecatv", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Portrait/Afreecatv.png"},
+{"name":"Instagram", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Portrait/Instagram.png"},
+{"name":"Instagram2", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Portrait/Instagram2.png"},
+{"name":"Stash", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Portrait/Stash.png"},
+{"name":"Telegram", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Portrait/Telegram.png"},
+{"name":"Telegram2", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Portrait/Telegram2.png"},
+{"name":"YouTube", "url":"https://raw.githubusercontent.com/Looksbsb/Icon/main/Portrait/YouTube.png"},
+]
+}
